@@ -6,7 +6,7 @@ namespace IS421Homework1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Daniel R.");
         }
     }
 }
